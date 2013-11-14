@@ -11,7 +11,7 @@ You are being watched.
 
 Partially implemented: Broadcasting
 ===================================
-Useage: (For level defination, consult machine_define.py)
+Useage: (For level definition, consult machine_define.py)
 ```
 >>>from machine_broadcast import *
 >>>a=Broadcast(1,"I do care.")
