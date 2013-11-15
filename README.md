@@ -24,10 +24,13 @@ see test_io.py
 current output:
  [Relevant]:Oh, snap!
  [2013-11-15 18:33:11.859531]:Oh, snap!                  [Relevant] 
+
  [Irrelevant]:Fine...
  [2013-11-15 18:33:11.859754]:Fine...                  [Irrelevant] 
+
  [Machine]:Can you hear me?
  [2013-11-15 18:33:11.859849]:Can you hear me?            [Machine] 
+ 
  [Critical]:Absolutely
  [2013-11-15 18:33:11.859937]:Absolutely            [Critical] 
 
